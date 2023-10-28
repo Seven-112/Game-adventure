@@ -6,7 +6,7 @@
 
 This is a 2D side-scrolling action game where players take control of a little girl, running, and jumping through the virtual city! The mission is to collect as many gifts as possible while avoiding an array of obstacles to reach a final goal.
 
-![screenshot](https://github.com/guillainbisimwa/Game-adventure/blob/design/src/img/game.gif)
+![screenshot](https://github.com/myshine112/Game-adventure/blob/design/src/img/game.gif)
 
 Additional description about the project and its features.
 
@@ -51,31 +51,3 @@ To run the integration Tests locally using [Jest](https://jestjs.io/), just type
 $ npm test
 
 ```
-
-## Author
-
-👤 **Guillain Bisimwa**
-
-- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
-- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
-- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/guillainbisimwa/Game-adventure/issues).
-
-## Acknowledgments
-
-- [Microverse](https://www.microverse.org/)
-- [Game pictures](https://craftpix.net/)
-- [Game soundtracks](https://downloads.khinsider.com/)
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
