@@ -28,7 +28,7 @@ Additional description about the project and its features.
 In order to run locally this project type the following commands over the terminal in Linux or Mac or the Windows cmd console:
 
 ```s
-$ git clone https://github.com/guillainbisimwa/Game-adventure.git
+$ git clone repository
 $ cd Game-adventure
 $ npm install
 
