@@ -6,7 +6,7 @@
 
 This is a 2D side-scrolling action game where players take control of a little girl, running, and jumping through the virtual city! The mission is to collect as many gifts as possible while avoiding an array of obstacles to reach a final goal.
 
-![screenshot](https://github.com/myshine112/Game-adventure/blob/design/src/img/game.gif)
+![screenshot](https://github.com/guillainbisimwa/Game-adventure/blob/design/src/img/game.gif)
 
 Additional description about the project and its features.
 
